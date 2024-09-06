@@ -1,3 +1,8 @@
 {
-  "rewrites": [{ "source": "/signup", "destination": "http://localhost:5173/" }]
+  "rewrites": [
+    {
+      "source": "https://medium-byanish-1-git-main-pacd321s-projects.vercel.app/signup",
+      "destination": "http://localhost:5173/"
+    }
+  ]
 }
