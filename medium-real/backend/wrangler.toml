@@ -1,0 +1,8 @@
+name = "backend"
+compatibility_date = "2024-09-05"
+# compatibility_flags = [ "nodejs_compat" ]
+
+[vars]
+DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiZDkyZmI0YWUtNGQ1Zi00N2RiLTgxZWUtZDExMDQ4NWM1N2ZiIiwidGVuYW50X2lkIjoiZDAzNjZmMTE1YjVjYzcxN2M0YzViNmVhMzJiMTMwYTMzMDZhYWViNDFjNjM3ZGM2MmJiYjNmODBkZGRlMDVkYSIsImludGVybmFsX3NlY3JldCI6IjIxZThlNjljLWE4OGEtNDYwYS1iMjEzLWRjM2YwNzFkMWFkNyJ9.AlxpUCpt8BSwsWK9C7vMR_b6VeQS4xRhFSjEUg1w4pc"
+
+JWT_SECRET = "secret"
